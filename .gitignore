@@ -1,0 +1,5 @@
+venv/
+.env
+function.zip
+lambda_function/
+.vscode/
